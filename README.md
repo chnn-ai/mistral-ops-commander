@@ -11,7 +11,7 @@
 
 ## 🎯 What is OpsCommander?
 
-**Mistral OpsCommander** is an autonomous Site Reliability Engineering (SRE) agent that monitors, diagnoses, and **resolves** software incidents in real-time — all orchestrated by Mistral AI models.
+**Mistral OpsCommander** is an autonomous Site Reliability Engineering (SRE) agent that monitors, diagnoses, and **resolves** software incidents in real-time, all orchestrated by Mistral AI models.
 
 When a developer reports a bug via Discord with a GitHub link, OpsCommander springs into action:
 
@@ -95,7 +95,7 @@ Discord Message
 ### 1. Clone & Install Python Dependencies
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mistral-ops-commander.git
+git clone https://github.com/chnn-ai/mistral-ops-commander.git
 cd mistral-ops-commander
 
 python -m venv venv
