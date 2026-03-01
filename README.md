@@ -192,7 +192,7 @@ mistral-ops-commander/
 │   │   └── index.css            # Cyberpunk theme
 │   └── package.json
 ├── requirements.txt
-└── .env.example
+└── .env
 ```
 
 ---
